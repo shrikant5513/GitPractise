@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitPractiseApplication {
 
         public static final Integer i=10;
+       private static final String rest_Url = "https://google.com"
+
 	public static void main(String[] args) {
 		SpringApplication.run(GitPractiseApplication.class, args);
 
