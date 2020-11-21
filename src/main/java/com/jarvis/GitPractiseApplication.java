@@ -10,6 +10,9 @@ public class GitPractiseApplication {
 		SpringApplication.run(GitPractiseApplication.class, args);
 
                      int a=10;
+
+             // these are the vertx branch changes
+                String s = ""Aishu;
 	}
 
 }
